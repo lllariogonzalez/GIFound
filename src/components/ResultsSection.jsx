@@ -1,0 +1,26 @@
+import { ResultsContainer, ResultTitle } from "../styles/ResultsSection";
+import { GifGrid } from "./GifGrid";
+import { useGifGetter } from "../hooks/useGifGetter";
+
+export const ResultsSection = ({ searchString }) => {
+
+    const searchFiltered = decodeURI(searchString);
+
+    const [data, error, loading, pagination] = useGifGetter(
+        searchFiltered,
+        50,
+        0
+    );
+
+    return (
+        <ResultsContainer>
+            <ResultTitle>
+                <h1 className="result-title">{searchFiltered} gifs</h1>
+                {pagination?.total_count && (
+                    <small>{pagination?.total_count} total gifs</small>
+                )}
+            </ResultTitle>
+            <GifGrid data={data} loading={loading} error={error} />
+        </ResultsContainer>
+    );
+};

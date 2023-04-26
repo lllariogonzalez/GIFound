@@ -1,0 +1,34 @@
+{
+    "light": {
+        "backgroundColor": "#f6f7f8",
+        "backgroundColorAlt": "#fff",
+        "textColor": "#111",
+        "textColorAlt": "#444",
+        "blueColor": "#00a6fb",
+        "redColor" : "#e74c3c",
+        "pinkColor": "#f72585",
+        "purpleColor": "#5e60ce",
+        "yellowColor": "#ffbd00",
+        "grayColor": "#666666",
+        "blackColor": "#151515",
+        "whiteColor": "#fefefe",
+        "hoverColor": "#00000015",
+        "shadow": "rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;"
+    },
+    "dark": {
+        "backgroundColor": "#111",
+        "backgroundColorAlt": "#181818",
+        "textColor": "#fdfdff",
+        "textColorAlt": "#ccc",
+        "blueColor": "#00a6fb",
+        "redColor" : "#e74c3c",
+        "pinkColor": "#f72585",
+        "purpleColor": "#5e60ce",
+        "yellowColor": "#ffbd00",
+        "grayColor": "#666666",
+        "blackColor": "#151515",
+        "whiteColor": "#fefefe",
+        "hoverColor": "#ffffff13",
+        "shadow": "rgba(0, 0, 0, 0.3) 0px 10px 10px -10px;"
+    }
+}
