@@ -1,3 +1,5 @@
+![Website status](https://img.shields.io/website?url=https%3A%2F%2Fgifound.vercel.app%2F)
+
 <h1 align="center">
   <div align="center">
     <img alt="Giboo logo" src="./public/logo.jpg" height="90px" width="auto"/>
