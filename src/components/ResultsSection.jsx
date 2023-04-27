@@ -8,7 +8,7 @@ export const ResultsSection = ({ searchString }) => {
 
     const [data, error, loading, pagination] = useGifGetter(
         searchFiltered,
-        50,
+        17,
         0
     );
 
