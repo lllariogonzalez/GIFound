@@ -15,6 +15,15 @@
   </p>
 <br/>
 
+## Project Images
+
+<kbd>
+  <img src="./public/gifound/1.png" alt="Home page" width="400"/>
+</kbd>
+<kbd>
+  <img src="./public/gifound/2.png" alt="Section result Gifs page" width="400"/>
+</kbd>
+
 ## Technologies 
 
 This project was built using these technologies:
