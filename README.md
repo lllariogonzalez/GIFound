@@ -17,10 +17,12 @@
 
 ## Project Images
 
-  <img style='padding: 10px;' src="./public/gifound/1.png" alt="Home page" width="400"/>
-  <img style='padding: 10px;' src="./public/gifound/2.png" alt="Section result Gifs page" width="400"/>
-  <img style='padding: 10px;' src="./public/gifound/3.png" alt="Search Gifs" width="400"/>
-  <img style='padding: 10px;' src="./public/gifound/4.png" alt="Ligth Theme" width="400"/>
+<div align='center' style='margin: auto;'>
+  <img style='padding: 10px;' width="400" src="./public/gifound/1.png" alt="Home page"/>
+  <img style='padding: 10px;' width="400" src="./public/gifound/2.png" alt="Section result Gifs page"/>
+  <img style='padding: 10px;' width="400" src="./public/gifound/3.png" alt="Search Gifs"/>
+  <img style='padding: 10px;' width="400" src="./public/gifound/4.png" alt="Ligth Theme"/>
+</div>
 
 ## Technologies 
 
