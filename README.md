@@ -17,21 +17,10 @@
 
 ## Project Images
 
-<kbd>
   <img style='padding: 10px;' src="./public/gifound/1.png" alt="Home page" width="400"/>
-</kbd>
-
-<kbd>
   <img style='padding: 10px;' src="./public/gifound/2.png" alt="Section result Gifs page" width="400"/>
-</kbd>
-
-<kbd>
   <img style='padding: 10px;' src="./public/gifound/3.png" alt="Search Gifs" width="400"/>
-</kbd>
-
-<kbd>
   <img style='padding: 10px;' src="./public/gifound/4.png" alt="Ligth Theme" width="400"/>
-</kbd>
 
 ## Technologies 
 
